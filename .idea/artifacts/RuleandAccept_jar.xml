@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RuleandAccept:jar">
+    <output-path>$USER_HOME$/Desktop/MCServerDev/plugins</output-path>
+    <root id="archive" name="RuleandAccept.jar">
+      <element id="module-output" name="RuleandAccept" />
+    </root>
+  </artifact>
+</component>

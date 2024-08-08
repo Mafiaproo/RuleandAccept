@@ -1,0 +1,21 @@
+name: RulesAndAccept
+author: VexTV
+version: 0.0.1
+main: fr.vextv.ruleandaccept.Main
+api-version: 1.20
+commands:
+  rules:
+    aliases: rl
+    description: Permet de ouvrir les régles
+    permission: rulesandaccept.rules
+    permission-message: &4Vous n'avez pas la permission d'executer cette commande !!
+  acceptrule:
+    aliases: arl
+    description: Permet de accepter les règles
+    permission: rulesandaccept.acceptrule
+    permission-message: &4Vous n'avez pas la permission d'executer cette commande !!
+  declinerule:
+    aliases: drl
+    description: Permet de refuser les règles
+    permission: rulesandaccept.declinerule
+    permission-message: &4Vous n'avez pas la permission d'executer cette commande !!

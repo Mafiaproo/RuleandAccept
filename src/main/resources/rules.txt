@@ -1,0 +1,19 @@
+&l1. &r&lRespect :&r Soyez respectueux envers les autres joueurs.
+
+&l2. &r&lPas de triche :&r Aucun mod non autorisé ou tricheur n'est permis.
+
+&l3. &r&lIntégrité des constructions :&r Ne détruisez pas les constructions d'autres joueurs sans permission.
+
+&l4. &r&lConstruction appropriée :&r Évitez les constructions offensantes ou inappropriées.
+
+&l5. &r&lPas de griefing :&r Le griefing est strictement interdit.
+
+&l6. &r&lPas de publicités :&r Aucune publicité non autorisée pour d'autres serveurs.
+
+&l7. &r&lRespect PvP :&r Respectez les règles spécifiques au PvP.
+
+&l8. &r&lFarm automatique équilibré :&r L'utilisation de farm automatique doit être équilibrée.
+
+&l9. &r&lSignalez les problèmes :&r Signalez tout problème ou comportement suspect.
+
+&l10. &r&lParticipation positive :&r Encouragez la coopération et la positivité dans la communauté.

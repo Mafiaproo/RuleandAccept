@@ -1,0 +1,20 @@
+# Config de Rules and Accept
+
+PluginPrefix: "[&5RulesandAccept] "
+
+AcceptRulesWarning: "Pour pouvoir jouée vous devez accepter les règles !! \n Faite /rules ou /acceptrule"
+
+#Personalisation du livre
+BookTitle: "Régles du Serveur"
+AcceptButton: "Accept"
+DeclineButton: "Decline"
+
+#Personalisation du Form
+FormTitle: "Régles du Serveur"
+FormAcceptButton: "Accept"
+FormDeclineButton: "Decline"
+
+
+#Plugin Data DON'T TOUCH !!!
+
+PlayersChoices: []
