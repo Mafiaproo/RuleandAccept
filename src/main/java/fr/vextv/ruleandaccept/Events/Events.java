@@ -39,12 +39,10 @@ public class Events implements Listener {
         Player player = event.getPlayer();
         UUID pUUID = event.getPlayer().getUniqueId();
 
-        //player.sendMessage("Mooove!");
 
-        //player.sendMessage("Java!");
         if (Main.getChoices().get(pUUID) == null || !Main.getChoices().get(pUUID))
         {
-            //player.sendMessage("Serieux?");
+
 
             Location from = event.getFrom();
 
