@@ -1,10 +1,12 @@
 package fr.vextv.ruleandaccept;
 
+//Import des Packages Java
 import fr.vextv.ruleandaccept.Cmds.Commandes;
 import fr.vextv.ruleandaccept.Events.Events;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.geysermc.floodgate.api.FloodgateApi;
 
+//Import des Librairies  Java
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
@@ -15,6 +17,7 @@ import java.util.List;
 import java.util.HashMap;
 import java.util.UUID;
 
+//Déclaration fonction de démarage du plugin
 public class Main extends JavaPlugin {
 
     private static Main instance;
